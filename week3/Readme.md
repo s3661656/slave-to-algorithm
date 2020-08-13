@@ -10,3 +10,5 @@ week 3 observation
 <h2> Possible Projects </h2>
 <p> I haven't exactly decided on what I want to create but I am currently intrested in creating a genereative typography similar to the idea of MIT logo. But I would like to try and create a intereactive set of typofaces. But that is just a thought I have for the moment. </p>
 <h2> IMAGEs </h2>
+[20200813_211815](https://user-images.githubusercontent.com/68724251/90129972-f8698600-ddac-11ea-87fb-74dafadee8db.jpg)
+[20200813_205319](https://user-images.githubusercontent.com/68724251/90129985-fdc6d080-ddac-11ea-83dd-a0afe4f1b413.jpg)
