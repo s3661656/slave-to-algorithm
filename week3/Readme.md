@@ -1,7 +1,7 @@
 
-<head>
+<h1>
 week 3 observation
-</head>
+</h2>
 
 <p>This week we had the opportunity to discover off-screen generative work without using coding and processing while still employing a rule-based system.</p>
 <p> This week's activity was based on exploration of creating a drawing machine by using the items that's in our surroundings. Initally, I was planning to tie multiple paintbrush and use fan as the force variable to create a drawing machine. But unfortunately, our fans were packed in the garage so I had to come up with a different solution. This is when I laid my eyes on my teabag that was left from the tea I was drinking. </p>
