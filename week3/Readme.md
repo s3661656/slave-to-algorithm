@@ -9,3 +9,4 @@ week 3 observation
 <p> Overall, I thought this was an interesting way of approaching the human/nature collaboration without having to use complicated coding. After this activity, we continued week 2's INPUT/OUTPUT sheet. But this time we looked into processing that comes between the input and output. This allowed each group to think critically and discuss the possiblities of what the processing might have been. </p>
 <h2> Possible Projects </h2>
 <p> I haven't exactly decided on what I want to create but I am currently intrested in creating a genereative typography similar to the idea of MIT logo. But I would like to try and create a intereactive set of typofaces. But that is just a thought I have for the moment. </p>
+<h2> IMAGEs </h2>
