@@ -1,7 +1,7 @@
 var font;
 
 function preload() {
-  font = loadFont("Avenir-Heavy-20.vlw")
+  font = loadFont("AXIS-ExtraBold-20.vlw")
 }
 
 function setup() {
