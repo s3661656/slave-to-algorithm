@@ -1,20 +1,14 @@
 var font;
 var vehicles = [];
 
-var texts = ['COVID-19','wear', 'a', 'mask'];
-var nextT = 0;
-var maxChangeForce = 10;
-
-var texts = ['wear', 'a', 'mask'];
-var nextT=0;
 
 function preload(){
   font = loadFont('DIN.otf')
 }
 
+
 function setup() {
-  createCanvas(1000, 400);
-  background(51);
+  createCanvas(900, 400);
   
   var points = font.textToPoints('COVID-19',30,250,185);
   console.log(points);
@@ -31,7 +25,7 @@ function setup() {
 }
 
 function draw() {
-  background(51);
+  background(0);
   textSize(15);
   fill(255);
   noStroke();
@@ -45,4 +39,5 @@ function draw() {
     v.show();
        }
 }
+
 
