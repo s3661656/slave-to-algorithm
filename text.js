@@ -8,7 +8,7 @@ function preload(){
 
 
 function setup() {
-  createCanvas(800, 400);
+  createCanvas(900, 400);
   
   var points = font.textToPoints('COVID-19',30,250,185);
   console.log(points);
