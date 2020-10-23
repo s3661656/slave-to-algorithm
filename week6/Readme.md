@@ -11,7 +11,7 @@ Group Work
 
 </h3> 
 
-<p>Yasmin, Hun and I became a group to do paper prototyping. Unfortunately, I was not able to turn my camera on due to technical difficulty, I later found out its due to my changed privacy settings on my Macbook when it was updating last time. Anyway, for our game we chose 'Sonic + knuckles and sonic the Hedgehog 3' to create a paper prototype. </p> 
+<p>Yasmin, Hun and I became a group to do paper prototyping. Unfortunately, I was not able to turn my camera on due to technical difficulty, I later found out its due to my changed privacy settings on my Macbook when it was updating last time. Anyway, for our game we chose 'Sonic + knuckles and sonic the Hedgehog 3' to create a paper prototype. Paper prototyping can be helpful to understand how we may want our coding to work or to find possible problems that can happen in our potential code </p> 
 
 <p>Here are some of the examples that we've been working as a team</p> 
 
