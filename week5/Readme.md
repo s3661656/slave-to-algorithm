@@ -16,6 +16,6 @@ Interactive Kinetic Typography
 
 <p> This pitch is most likely to be altered in many ways. In fact, I might create a new project that is not based on raising awareness of COVID-19 but something that makes people to work together have fun. </p> 
 
-<h2> Research Process </h2> 
+<h2> Presentation </h2> 
 
-<p> research process here</p> 
+<p> presentation slides here</p> 
