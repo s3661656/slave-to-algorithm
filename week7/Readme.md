@@ -2,7 +2,8 @@
 
 <h3> Quick progress Presentation</h3> 
 
-<p>Add images here </p> 
+<p>Add images here </p>
+<p>This week, I have played used typography from the tutorial I have presented on week 5. I have focused on the kinectic typography to analyse the movement</p>
 
 <h3> Pseudo Code</h3> 
 <p>EXAMPLE 1
