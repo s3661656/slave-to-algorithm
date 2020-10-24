@@ -1,14 +1,6 @@
-<h1> 
+<h1> week 7 </h1> 
 
-week 7
-
-</h1> 
-
- <h3> 
-
-Quick progress Presentation
-
-</h3> 
+<h3> Quick progress Presentation</h3> 
 
 <p>Add images here </p> 
 
@@ -29,8 +21,7 @@ Quick progress Presentation
 <p> INPUT hand tracking
 <br> If hand gets closer than >100; steer particles away from hand
 <br> if hand is closed; then particles flock to hand</br> </p>
-<h3> Processing Workshop </h3> 
 
-<h3> Processing workshop</h3>
+<h3> Processing Workshop </h3> 
 <p>add images here</p>
 
