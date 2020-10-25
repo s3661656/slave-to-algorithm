@@ -20,13 +20,13 @@ Interactive Kinetic Typography
 
 <p> ![s3661656_pitchproject01 (1)](https://user-images.githubusercontent.com/68724251/97107198-6c63cb00-171a-11eb-9cdf-7e9222eb4e4a.jpg)
 ![s3661656_pitchproject01 (2)](https://user-images.githubusercontent.com/68724251/97107200-6e2d8e80-171a-11eb-88b5-9ffbd8c817a0.jpg)
-![s3661656_pitchproject01 (3)](https://user-images.githubusercontent.com/68724251/97107203-6f5ebb80-171a-11eb-9614-c184f76abe87.jpg)
-![s3661656_pitchproject01 (5)](https://user-images.githubusercontent.com/68724251/97107204-708fe880-171a-11eb-96b6-460253692cff.jpg)
-![s3661656_pitchproject01 (4)](https://user-images.githubusercontent.com/68724251/97107205-708fe880-171a-11eb-9f09-25abf0d5da72.jpg)
-![s3661656_pitchproject01 (6)](https://user-images.githubusercontent.com/68724251/97107206-71287f00-171a-11eb-84f5-76c655e6c475.jpg)
-![s3661656_pitchproject01 (7)](https://user-images.githubusercontent.com/68724251/97107207-71c11580-171a-11eb-9f74-a087724cca88.jpg)
-![s3661656_pitchproject01 (8)](https://user-images.githubusercontent.com/68724251/97107208-71c11580-171a-11eb-952f-9b8f59882bc3.jpg)
-[s3661656_pitchproject01.pptx](https://github.com/s3661656/slave-to-algorithm/files/5434707/s3661656_pitchproject01.pptx)
+<br>![s3661656_pitchproject01 (3)](https://user-images.githubusercontent.com/68724251/97107203-6f5ebb80-171a-11eb-9614-c184f76abe87.jpg)
+<br>![s3661656_pitchproject01 (5)](https://user-images.githubusercontent.com/68724251/97107204-708fe880-171a-11eb-96b6-460253692cff.jpg)
+<br>![s3661656_pitchproject01 (4)](https://user-images.githubusercontent.com/68724251/97107205-708fe880-171a-11eb-9f09-25abf0d5da72.jpg)
+<br>![s3661656_pitchproject01 (6)](https://user-images.githubusercontent.com/68724251/97107206-71287f00-171a-11eb-84f5-76c655e6c475.jpg)
+<br>![s3661656_pitchproject01 (7)](https://user-images.githubusercontent.com/68724251/97107207-71c11580-171a-11eb-9f74-a087724cca88.jpg)
+<br>![s3661656_pitchproject01 (8)](https://user-images.githubusercontent.com/68724251/97107208-71c11580-171a-11eb-952f-9b8f59882bc3.jpg)
+<br>![s3661656_pitchproject01.pptx](https://github.com/s3661656/slave-to-algorithm/files/5434707/s3661656_pitchproject01.pptx)
 
 
  </p> 
