@@ -19,7 +19,7 @@ Interactive Kinetic Typography
 <h2> Presentation </h2> 
 
 <p> ![s3661656_pitchproject01 (1)](https://user-images.githubusercontent.com/68724251/97107198-6c63cb00-171a-11eb-9cdf-7e9222eb4e4a.jpg)
-![s3661656_pitchproject01 (2)](https://user-images.githubusercontent.com/68724251/97107200-6e2d8e80-171a-11eb-88b5-9ffbd8c817a0.jpg)
+<br>![s3661656_pitchproject01 (2)](https://user-images.githubusercontent.com/68724251/97107200-6e2d8e80-171a-11eb-88b5-9ffbd8c817a0.jpg)
 <br>![s3661656_pitchproject01 (3)](https://user-images.githubusercontent.com/68724251/97107203-6f5ebb80-171a-11eb-9614-c184f76abe87.jpg)
 <br>![s3661656_pitchproject01 (5)](https://user-images.githubusercontent.com/68724251/97107204-708fe880-171a-11eb-96b6-460253692cff.jpg)
 <br>![s3661656_pitchproject01 (4)](https://user-images.githubusercontent.com/68724251/97107205-708fe880-171a-11eb-9f09-25abf0d5da72.jpg)
