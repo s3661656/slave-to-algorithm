@@ -11,3 +11,5 @@
   <li>Zach Liberman</li>
   <li>Daniel Shiffman's Kinect Point Cloud</li></p>
 <h2> IMAGEs on today's processing learning </h2>
+<p><img width="487" alt="Screen Shot 2020-10-25 at 11 10 53 pm" src="https://user-images.githubusercontent.com/68724251/97106712-5d2f4e00-1717-11eb-9546-bdf6b92f907d.png"></p>
+<p><img width="476" alt="Screen Shot 2020-10-25 at 11 08 56 pm" src="https://user-images.githubusercontent.com/68724251/97106637-180b1c00-1717-11eb-8b1d-801d4060a4f0.png"></p>
