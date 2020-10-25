@@ -9,6 +9,6 @@
 <p> I have come to realise that my kinect isn't doing a great job in picking up images clearly. Unless I have done something wrong. Or even the distance between the kinect and me have been too short. But given my room space and computer I am not using, I don't think I am able to use this properly. After Daniel Shiffman's tutorial, I have tried hand tracking from other tutorials but I didn't seem to have any luck in making it work..? It seems to have trouble picking up my hand on screen. I think I might have to come up with a different approach to my project. I did have a look into collision effect/ steering particles. </p> 
 
 <h3> Further Research  </h3> 
-<p> I have come to realise that my kinect isn't doing a great job in picking up images clearly. Unless I have done something wrong. Or even the distance between the kinect and me have been too short. But given my room space and computer I am not using, I don't think I am able to use this properly. I am hoping to be able to use hand tracking after the tutorials I have been using from Daniel Shiffman.</p> 
+<p> This is some basic collision tutorials I have found from happycoding: https://happycoding.io/tutorials/processing/collision-detection#circle-circle-collision. This teaches me basic collision method</p> 
 
 
