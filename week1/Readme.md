@@ -15,6 +15,8 @@ week 1 observation
 
 <h2>Parametric drawing using dice</h2>
 
-  
+<p><img width="782" alt="Screen Shot 2020-10-25 at 10 36 43 pm" src="https://user-images.githubusercontent.com/68724251/97106079-9e256380-1713-11eb-9e34-e207463d2eaa.png"></p>
+<p><img width="707" alt="Screen Shot 2020-10-25 at 10 44 06 pm" src="https://user-images.githubusercontent.com/68724251/97106096-beedb900-1713-11eb-9b82-4190e8b1fce6.png"></p>
+
 
  
