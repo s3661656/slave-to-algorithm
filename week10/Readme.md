@@ -9,6 +9,11 @@
 <p> I have come to realise that my kinect isn't doing a great job in picking up images clearly. Unless I have done something wrong. Or even the distance between the kinect and me have been too short. But given my room space and computer I am not using, I don't think I am able to use this properly. After Daniel Shiffman's tutorial, I have tried hand tracking from other tutorials but I didn't seem to have any luck in making it work..? It seems to have trouble picking up my hand on screen. I think I might have to come up with a different approach to my project. I did have a look into collision effect/ steering particles. </p> 
 
 <h3> Further Research  </h3> 
-<p> This is some basic collision tutorials I have found from happycoding: https://happycoding.io/tutorials/processing/collision-detection#circle-circle-collision. This teaches me basic collision method</p> 
+<p> This is some basic collision tutorials I have found: 
+  <li>https://happycoding.io/tutorials/processing/collision-detection#circle-circle-collision.</li>
+  <li>https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection</li>
+This teached me basic collision method</p> 
+
+<p>Since I am not able to use webcam on my macbook and my kinect is having trouble to detect my hand, I have decided to use P5.js web editor to have some progress in my work. I have been using openprocessing for inspiration and used http://wykhuh.github.io/shiffman-p5-tutorials/ to help me with the basics.</p>
 
 
