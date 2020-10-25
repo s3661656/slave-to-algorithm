@@ -10,7 +10,7 @@
 <p> https://github.com/shiffman/OpenKinect-for-Processing/issues/82; here is a link to other problems I have faced.</p> 
 
 <h2> Inspiration</h2> 
-<p>https://github.com/s3661656/slave-to-algorithm/issues/2#issue-728977327
+<p>![0](https://user-images.githubusercontent.com/68724251/97103074-7677d080-16fe-11eb-85fa-d3801d63c6bc.jpg)
 <br> ![maxresdefault](https://user-images.githubusercontent.com/68724251/97102794-81316600-16fc-11eb-86b8-104c9227757d.jpg)
 </p>
 
