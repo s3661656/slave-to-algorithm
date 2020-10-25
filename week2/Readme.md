@@ -10,4 +10,5 @@
 
 <p>Lastly, in today's class we learned a new software named processing. In this software we created basic shapes, colours and interactive commands so we are more used to coding. Once we have gotten used to using this software, we were able to create our faces.</p>
 <p> Once we created our faces, we were to remix our design with other students and come up with unconventional designs that is possibly interactive for the users. The example is below:</p>
-![122461032_448506319875316_5014637671392782398_n](https://user-images.githubusercontent.com/68724251/97065943-cd957c80-15fc-11eb-9ad1-946585fc61a1.png)
+<p><img width="491" alt="Screen Shot 2020-10-23 at 10 00 03 pm" src="https://user-images.githubusercontent.com/68724251/97105824-007d6480-1712-11eb-881e-cfa29282072d.png"></p>
+<p><img width="491" alt="Screen Shot 2020-10-23 at 10 35 25 pm" src="https://user-images.githubusercontent.com/68724251/97105800-e3e12c80-1711-11eb-86e1-1271ecb88b7b.png"></p>
