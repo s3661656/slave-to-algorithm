@@ -18,4 +18,5 @@ Group Work
 <p> Later on, for our processing workshop we have learned how to use p5.js on how to add sounds </p> 
 
 <h2> here are some examples: </h2> 
-
+<p>![Sonic   Knuckles + Sonic the Hedgehog 3 (World)](https://user-images.githubusercontent.com/68724251/97106178-2c014e80-1714-11eb-823d-71f932d882ec.png)
+</p>
